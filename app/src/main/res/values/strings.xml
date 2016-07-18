@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Assignment4</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="action_settings">Settings</string>
+    <string name="Enter_description_here">Description</string>
+    <string name="title_activity_multiple_pole_maps">Map</string>
+    <string name="SubmitReport">Submit Report</string>
+    <string name="TakePhoto">Take Photo !</string>
+    <string name="back">Back</string>
+    <string name="viewReports">View Reports</string>
+    <string name="mapView">Map View</string>
+    <string name="postReport">Post Report</string>
+    <string name="singleMap">Map View</string>
+    <string name="selectedId">selectedId</string>
+    <string name="latitude">latitude</string>
+    <string name="longitude">longitude</string>
+    <string name="type">type</string>
+    <string name="description">description</string>
+    <string name="created">created</string>
+    <string name="imagetype">imagetype</string>
+    <string name="id">id</string>
+    <string name="user">user</string>
+    <string name="street">street</string>
+    <string name="RedId">0560</string>
+
+</resources>
+
+
